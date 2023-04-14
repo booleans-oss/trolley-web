@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center justify-between p-24 text-gray-700">
       <div className="flex flex-col items-center justify-center space-y-10">
-        <h1 className="text-6xl font-bold bg-white/50 p-4 rounded-xl border-2 border-gray-300">
-          Bienvenue sur les {" "}
+        <h1 className="text-6xl font-bold bg-white/50 p-4 rounded-xl border-2 border-gray-300 text-center">
+          Bienvenue sur les{" "}
           <span
             style={{
               background: "url(http://i.imgur.com/HlfA2is.gif) bottom repeat-x",
